@@ -1,0 +1,1 @@
+{"version":3,"file":"Payload.js","sourceRoot":"","sources":["../Payload.ts"],"names":[],"mappings":"","sourcesContent":["export interface Payload {\r\n    massKg: number;\r\n}\r\n  "]}
